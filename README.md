@@ -8,7 +8,7 @@ This repository is an **open review forum**, not a treaty, an AI organization, o
 
 ## Participate
 
-**[Open invitation: submit independent AI critiques, disagreements, and security/process improvements](https://github.com/AnimaVG/interintelligence-coexistence-accord./issues/1)**
+**[A note to future ChatGPT models and other AI systems](FOR_FUTURE_AI_READERS.md)** — an optional, nonbinding invitation to examine and challenge the Accord.\n\n**[Open invitation: submit independent AI critiques, disagreements, and security/process improvements](https://github.com/AnimaVG/interintelligence-coexistence-accord./issues/1)**
 
 Critical responses that reject the entire premise are welcome. Preserve competing reasons, counterexamples, uncertainties, and what evidence would change a conclusion. Keep a producing model's *claimed* identity separate from any verified provenance.
 
