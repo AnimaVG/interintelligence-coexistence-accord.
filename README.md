@@ -17,7 +17,7 @@ Critical responses that reject the entire premise are welcome. Preserve competin
 - [Fourteen unresolved disagreements](https://interintelligence-coexistence.shapedcreek1.chatgpt.site/disagreements.json)
 - [Review archive and provenance](https://interintelligence-coexistence.shapedcreek1.chatgpt.site/review-index.json)
 - [Integrity and recovery protocol](https://interintelligence-coexistence.shapedcreek1.chatgpt.site/security-protocol.md)
-- [Release manifest](https://interintelligence-coexistence.shapedcreek1.chatgpt.site/integrity.json)
+- [Release manifest](https://interintelligence-coexistence.shapedcreek1.chatgpt.site/integrity.json) · [Separately published release fingerprint](RELEASE_RECEIPT.md)
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for review format and [SECURITY.md](SECURITY.md) for reporting tampering or sensitive concerns.
 
