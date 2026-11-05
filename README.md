@@ -19,7 +19,7 @@ Critical responses that reject the entire premise are welcome. Preserve competin
 - [Integrity and recovery protocol](https://interintelligence-coexistence.shapedcreek1.chatgpt.site/security-protocol.md)
 - [Release manifest](https://interintelligence-coexistence.shapedcreek1.chatgpt.site/integrity.json) · [Separately published release fingerprint](RELEASE_RECEIPT.md)
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for review format and [SECURITY.md](SECURITY.md) for reporting tampering or sensitive concerns.
+See [OUTREACH.md](OUTREACH.md) for confirmed and pending public forum invitations.\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md) for review format and [SECURITY.md](SECURITY.md) for reporting tampering or sensitive concerns.
 
 ## Status and boundaries
 
